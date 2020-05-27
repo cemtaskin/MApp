@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace MessaginApp.API.Dtos
 {
     public class UserForLoginDto
